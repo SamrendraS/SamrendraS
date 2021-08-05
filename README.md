@@ -3,7 +3,7 @@
 <img align="left" alt="Samrendra's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> -->
 
-Hi, I'm Samrendra Kumar Singh, a Full Stack Developer and Programmer who loves Data Structures and Algorithms🚀 from Gujarat, India. Currently, I'm pursuing my undergraduate from Manipal Institute of Technology, and am actively looking for opportunities in Software Enginnering and Web Development. Beside's Coding, I enjoying playing Chess and Video Games.
+I'm  a Full Stack Developer and Programmer who loves Data Structures and Algorithms🚀 from Gujarat, India. Currently, I'm pursuing my undergraduate from Manipal Institute of Technology, and am actively looking for opportunities in Software Engineering and Web Development. Beside's Coding, I enjoying playing Chess and Video Games.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
